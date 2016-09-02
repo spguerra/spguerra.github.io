@@ -441,7 +441,7 @@ img::-moz-selection {
 }
 .mosaicflow__item img {
   display: block;
-  width: 100%;
+  width: 33%;
   height: auto;
 }
 .agenda {  }
