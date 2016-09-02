@@ -463,7 +463,7 @@ img::-moz-selection {
 /* Events */
 .agenda .agenda-events {  } 
 .agenda .agenda-events .agenda-event {  } 
-@media (max-width: 767px) {    
+@media only screen and (min-width: 768px) {    
 }
 body {
   -webkit-tap-highlight-color: #0085A1;
