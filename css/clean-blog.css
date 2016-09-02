@@ -446,9 +446,9 @@ img::-moz-selection {
 }
 .agenda {  }
 /* Dates */
-.agenda .agenda-date { width: 170px; }
+.agenda .agenda-date { width: 15%; }
 .agenda .agenda-date .dayofmonth {
-  width: 40px;
+  width: 4%;
   font-size: 36px;
   line-height: 36px;
   float: left;
@@ -459,7 +459,7 @@ img::-moz-selection {
   font-size: 0.75em; 
 }
 /* Times */
-.agenda .agenda-location { width: 140px; } 
+.agenda .agenda-location { width: 14%; } 
 /* Events */
 .agenda .agenda-events {  } 
 .agenda .agenda-events .agenda-event {  } 
